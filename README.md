@@ -5,7 +5,9 @@
 
 <!-- TYPING SVG -->
 <a href="https://github.com/Farhadali123">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00DFD8&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=120&lines=%F0%9F%9A%80+Hey+there!+I'm+Farhad+Ali;%E2%9A%A1+I+build+things+for+the+web;%F0%9F%8E%AF+JavaScript+%7C+React+%7C+CSS+%7C+Node.js;%F0%9F%94%A5+Turning+caffeine+into+code+since+2025" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00DFD8&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=120&lines=%F0%9F%9A%80+Hey+there!+I'm+Farhad+Ali;%E2%9A%A1+I+build+things+for+the+web;%F0%9F%8E%AF+JavaScript+%7C+React+%7C+CSS+%7C+Node.js;%F0%9F%94%A5+Turning+caffeine+into+code+since+2025" alt="Typing SVG" 
+    
+    />
 </a>
 <hr>
 <br/>
