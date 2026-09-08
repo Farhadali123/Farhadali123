@@ -5,15 +5,14 @@
 
 <!-- TYPING SVG -->
 <a href="https://github.com/Farhadali123">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=120&lines=%F0%9F%9A%80+Hey+there!+I'm+Farhad+Ali;%E2%9A%A1+I+build+things+for+the+web;%F0%9F%8E%AF+JavaScript+%7C+React+%7C+CSS+%7C+Node.js;%F0%9F%94%A5+Turning+caffeine+into+code+since+2025" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=120&lines=%F0%9F%9A%80+Hey+there!+I'm+Farhad+Ali;%E2%9A%A1+I+build+things+for+the+web;%F0%9F%8E%AF+JavaScript+%7C+React+%7C+CSS+%7C+Node.js;%F0%9F%94%A5+Turning+caffeine+into+code+since+2025" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- SOCIAL BADGES -->
-<a href="https://github.com/Farhadali123"><img src="https://img.shields.io/badge/Profile_Views-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="views" /></a>
-<a href="https://github.com/Farhadali123?tab=followers"><img src="https://img.shields.io/github/followers/Farhadali123?style=for-the-badge&logo=github&color=a855f7&labelColor=1a1b27&logoColor=white" alt="followers" /></a>
-<a href="https://github.com/Farhadali123?tab=repositories"><img src="https://img.shields.io/github/stars/Farhadali123?style=for-the-badge&logo=github&color=6366f1&labelColor=1a1b27&logoColor=white" alt="stars" /></a>
+<a href="https://github.com/Farhadali123?tab=followers"><img src="https://img.shields.io/github/followers/Farhadali123?style=for-the-badge&logo=github&color=a855f7&labelColor=1a1b27&logoColor=white" alt="followers" /></a>&nbsp;
+<a href="https://github.com/Farhadali123?tab=repositories"><img src="https://img.shields.io/github/stars/Farhadali123?style=for-the-badge&logo=github&color=6366f1&labelColor=1a1b27&logoColor=white" alt="stars" /></a>&nbsp;
 <a href="mailto:farhad32145@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 
 </div>
@@ -53,7 +52,7 @@ class Farhad {
   }
 
   sayHi() {
-    console.log("Thanks for visiting my profile! Let's build something amazing together!");
+    console.log("Thanks for visiting! Let's build something amazing together!");
   }
 }
 
@@ -147,17 +146,17 @@ new Farhad().sayHi();
 <div align="center">
 
 <a href="https://github.com/Farhadali123">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Farhadali123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9&ring_color=a855f7&rank_icon=github&show=reviews,prs_merged" alt="Farhad's GitHub stats" />
-</a>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Farhadali123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9&ring_color=a855f7&rank_icon=github" alt="Farhad's GitHub stats" />
+</a>&nbsp;
 <a href="https://github.com/Farhadali123">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhadali123&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Top Langs" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Farhadali123&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Top Langs" />
 </a>
 
 <br/><br/>
 
 <!-- STREAK STATS -->
 <a href="https://github.com/Farhadali123">
-  <img width="70%" src="https://github-readme-streak-stats-eight-delta.vercel.app?user=Farhadali123&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=6366f1&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=1a1b27" alt="GitHub Streak" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Farhadali123&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=6366f1&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=1a1b27" alt="GitHub Streak" />
 </a>
 
 </div>
@@ -174,7 +173,7 @@ new Farhad().sayHi();
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Farhadali123&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=6366f1&point=ffffff&area=true&area_color=a855f7)](https://github.com/Farhadali123)
+[![Activity Graph](https://github-activity-graph.vercel.app/graph?username=Farhadali123&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=6366f1&point=ffffff&area=true&area_color=a855f7)](https://github.com/Farhadali123)
 
 </div>
 
@@ -190,7 +189,7 @@ new Farhad().sayHi();
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Farhadali123&theme=discord&no-bg=true&no-frame=true&column=7&margin-w=10)](https://github.com/Farhadali123)
+[![trophy](https://github-trophies.vercel.app/?username=Farhadali123&theme=discord&no-bg=true&no-frame=true&column=7&margin-w=10)](https://github.com/Farhadali123)
 
 </div>
 
@@ -207,16 +206,16 @@ new Farhad().sayHi();
 <div align="center">
 
 <a href="https://github.com/Farhadali123/React-movie">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Farhadali123&repo=React-movie&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9" alt="React-movie" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Farhadali123&repo=React-movie&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9" alt="React-movie" />
 </a>
 <a href="https://github.com/Farhadali123/Fruit-ninja">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Farhadali123&repo=Fruit-ninja&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9" alt="Fruit-ninja" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Farhadali123&repo=Fruit-ninja&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9" alt="Fruit-ninja" />
 </a>
 
 <br/>
 
 <a href="https://github.com/Farhadali123/coffe_website">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Farhadali123&repo=coffe_website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9" alt="coffe_website" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Farhadali123&repo=coffe_website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9" alt="coffe_website" />
 </a>
 
 </div>
@@ -264,9 +263,11 @@ new Farhad().sayHi();
 
 <div align="center">
 
-<img src='https://randommeme-five.vercel.app/' width="500" alt="random meme" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding meme" />
 
-*PS: Refresh the page for a new meme* 😂
+<br/>
+
+*I promise I'll write tests... eventually* 😂
 
 </div>
 
@@ -274,17 +275,6 @@ new Farhad().sayHi();
 
 <!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<br/>
-
-<!-- SPOTIFY -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" width="30" /> &nbsp;Coding Vibes
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=spotify_user&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=a855f7)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
 
 <br/>
 
@@ -302,7 +292,10 @@ new Farhad().sayHi();
 
 ### Thanks for visiting! Drop a ⭐ if you like my work!
 
-![](https://hit.yhype.me/github/profile?user_id=0)
+<br/>
+
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=Farhadali123&style=flat-square&color=a855f7" alt="profile views" />
 
 </div>
 
