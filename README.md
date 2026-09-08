@@ -1,114 +1,235 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Farhad%20Ali&fontColor=ffffff&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20%7C%20Web%20Enthusiast&descSize=18&descAlignY=55&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:a855f7,100:6366f1&height=220&section=header&text=Farhad%20Ali&fontColor=ffffff&fontSize=65&fontAlignY=32&animation=twinkling&desc=Software%20Developer%20•%20Web%20Enthusiast%20•%20Code%20Lover&descSize=18&descAlignY=55&descAlign=50" alt="header" />
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%9A%80+Building+cool+stuff+with+code;%E2%9A%A1+JavaScript+%7C+React+%7C+CSS+%7C+Web+Dev;%F0%9F%8E%AE+Turning+ideas+into+reality" alt="Typing SVG" />
+<a href="https://github.com/Farhadali123">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=120&lines=%F0%9F%9A%80+Hey+there!+I'm+Farhad+Ali;%E2%9A%A1+I+build+things+for+the+web;%F0%9F%8E%AF+JavaScript+%7C+React+%7C+CSS+%7C+Node.js;%F0%9F%94%A5+Turning+caffeine+into+code+since+2025" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- SOCIAL BADGES -->
-[![Profile Views](https://komarev.com/ghpvc/?username=Farhadali123&style=for-the-badge&color=6e40c9)](https://github.com/Farhadali123)
-[![GitHub followers](https://img.shields.io/github/followers/Farhadali123?style=for-the-badge&logo=github&color=161b22&labelColor=0d1117)](https://github.com/Farhadali123?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/Farhadali123?style=for-the-badge&logo=github&color=161b22&labelColor=0d1117)](https://github.com/Farhadali123?tab=repositories)
+<a href="https://github.com/Farhadali123"><img src="https://img.shields.io/badge/Profile_Views-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="views" /></a>
+<a href="https://github.com/Farhadali123?tab=followers"><img src="https://img.shields.io/github/followers/Farhadali123?style=for-the-badge&logo=github&color=a855f7&labelColor=1a1b27&logoColor=white" alt="followers" /></a>
+<a href="https://github.com/Farhadali123?tab=repositories"><img src="https://img.shields.io/github/stars/Farhadali123?style=for-the-badge&logo=github&color=6366f1&labelColor=1a1b27&logoColor=white" alt="stars" /></a>
+<a href="mailto:farhad32145@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 
 </div>
 
-<!-- ABOUT ME -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
+<br/>
+
+<!-- ABOUT ME SECTION -->
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30" /> &nbsp;About Me
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+- 🔭 I'm currently working on **cool web projects**
+- 🌱 I'm learning **React, Node.js & modern JavaScript**
+- 🎮 I built a **Fruit Ninja** game & a **Movie App** with React
+- ☕ I love turning **coffee into code**
+- 💬 Ask me about **JavaScript, React, CSS**
+- ⚡ Fun fact: **I debug with `console.log()` and I'm proud** 😄
+- 🎯 Goal: **Contribute to open source & build impactful apps**
+
+<br clear="both"/>
+
+<br/>
+
+<!-- CODE BLOCK -->
+<div align="center">
 
 ```javascript
-const farhad = {
-    pronouns: "he" | "him",
-    location: "🌍 Earth",
-    currentFocus: "Building awesome web applications",
-    funFact: "I debug with console.log and I'm not ashamed 😄",
-    
-    code: ["JavaScript", "HTML", "CSS"],
-    tools: ["React", "Node.js", "VS Code", "Git"],
-    
-    challenge: "Pushing code every day to build consistency 🔥"
-};
+class Farhad {
+  constructor() {
+    this.name = "Farhad Ali";
+    this.role = "Software Developer";
+    this.languages = ["JavaScript", "HTML", "CSS"];
+    this.frameworks = ["React", "Node.js", "TailwindCSS"];
+    this.currentlyLearning = "Everything 🚀";
+  }
+
+  sayHi() {
+    console.log("Thanks for visiting my profile! Let's build something amazing together!");
+  }
+}
+
+new Farhad().sayHi();
 ```
+
+</div>
+
+<br/>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
 <!-- TECH STACK -->
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" /> &nbsp;Tech Arsenal
 
 <div align="center">
+<table>
+<tr>
+<td align="center" width="96">
+  <a href="#tech">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  </a>
+  <br><b>JavaScript</b>
+</td>
+<td align="center" width="96">
+  <a href="#tech">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  </a>
+  <br><b>React</b>
+</td>
+<td align="center" width="96">
+  <a href="#tech">
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+  </a>
+  <br><b>TypeScript</b>
+</td>
+<td align="center" width="96">
+  <a href="#tech">
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  </a>
+  <br><b>GitHub</b>
+</td>
+<td align="center" width="96">
+  <a href="#tech">
+    <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="65" height="65" />
+  </a>
+  <br><b>Prettier</b>
+</td>
+<td align="center" width="96">
+  <a href="#tech">
+    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+  </a>
+  <br><b>REST API</b>
+</td>
+</tr>
+</table>
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<br/>
+
+### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Tools & Platforms
+### ⚙️ Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </div>
+
+<br/>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
 <!-- GITHUB STATS -->
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> &nbsp;GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Farhadali123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Farhadali123&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+<a href="https://github.com/Farhadali123">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Farhadali123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9&ring_color=a855f7&rank_icon=github&show=reviews,prs_merged" alt="Farhad's GitHub stats" />
+</a>
+<a href="https://github.com/Farhadali123">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhadali123&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Top Langs" />
+</a>
 
-<br/>
+<br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhadali123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9" />
+<!-- STREAK STATS -->
+<a href="https://github.com/Farhadali123">
+  <img width="70%" src="https://github-readme-streak-stats-eight-delta.vercel.app?user=Farhadali123&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=6366f1&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=1a1b27" alt="GitHub Streak" />
+</a>
 
 </div>
 
 <br/>
 
-<!-- CONTRIBUTION GRAPH -->
-## 📈 Contribution Graph
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" /> &nbsp;Contribution Graph
 
 <div align="center">
 
-[![Farhad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Farhadali123&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area=true&area_color=6e40c9)](https://github.com/Farhadali123)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Farhadali123&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=6366f1&point=ffffff&area=true&area_color=a855f7)](https://github.com/Farhadali123)
 
 </div>
+
+<br/>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<br/>
+
+<!-- TROPHY -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" /> &nbsp;GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Farhadali123&theme=discord&no-bg=true&no-frame=true&column=7&margin-w=10)](https://github.com/Farhadali123)
+
+</div>
+
+<br/>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
 <!-- FEATURED PROJECTS -->
-## 🚀 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" /> &nbsp;Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/Farhadali123/React-movie">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Farhadali123&repo=React-movie&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Farhadali123&repo=React-movie&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9" alt="React-movie" />
 </a>
 <a href="https://github.com/Farhadali123/Fruit-ninja">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Farhadali123&repo=Fruit-ninja&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Farhadali123&repo=Fruit-ninja&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9" alt="Fruit-ninja" />
 </a>
+
+<br/>
+
 <a href="https://github.com/Farhadali123/coffe_website">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Farhadali123&repo=coffe_website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Farhadali123&repo=coffe_website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9" alt="coffe_website" />
 </a>
 
 </div>
 
 <br/>
 
-<!-- SNAKE ANIMATION -->
-## 🐍 Contribution Snake
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<br/>
+
+<!-- SNAKE -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30" /> &nbsp;Watch My Contributions Get Eaten
 
 <div align="center">
 
@@ -122,31 +243,68 @@ const farhad = {
 
 <br/>
 
-<!-- SPOTIFY / QUOTE -->
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<br/>
+
+<!-- RANDOM DEV QUOTE -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30" /> &nbsp;Dev Wisdom
+
 <div align="center">
 
-### 💭 Random Dev Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<br/>
+
+<!-- RANDOM DEV MEME -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Tears%20of%20Joy.png" width="30" /> &nbsp;Random Dev Meme
+
+<div align="center">
+
+<img src='https://randommeme-five.vercel.app/' width="500" alt="random meme" />
+
+*PS: Refresh the page for a new meme* 😂
+
+</div>
+
+<br/>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<br/>
+
+<!-- SPOTIFY -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" width="30" /> &nbsp;Coding Vibes
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=spotify_user&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=a855f7)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
 <br/>
 
 <!-- CONNECT -->
-## 🤝 Let's Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30" /> &nbsp;Let's Connect!
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhad32145@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Farhadali123)
+<a href="mailto:farhad32145@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
+<a href="https://github.com/Farhadali123"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
 
-<br/>
+<br/><br/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-<br/>
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="50" />
+
+### Thanks for visiting! Drop a ⭐ if you like my work!
+
+![](https://hit.yhype.me/github/profile?user_id=0)
 
 </div>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:a855f7,100:6366f1&height=120&section=footer" alt="footer" />
