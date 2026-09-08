@@ -140,16 +140,16 @@ new Farhad().sayHi();
 
 <br/>
 
-<!-- GITHUB STATS -->
+<!-- GITHUB STATS - USING YOUR OWN VERCEL INSTANCE -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> &nbsp;GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/Farhadali123">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Farhadali123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9&ring_color=a855f7&rank_icon=github" alt="Farhad's GitHub stats" />
+  <img height="180" src="https://github-readme-stats-iota-five-79yawar39m.vercel.app/api?username=Farhadali123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9&ring_color=a855f7&rank_icon=github" alt="Farhad's GitHub stats" />
 </a>&nbsp;
 <a href="https://github.com/Farhadali123">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Farhadali123&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Top Langs" />
+  <img height="180" src="https://github-readme-stats-iota-five-79yawar39m.vercel.app/api/top-langs/?username=Farhadali123&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Top Langs" />
 </a>
 
 <br/><br/>
@@ -200,22 +200,22 @@ new Farhad().sayHi();
 
 <br/>
 
-<!-- FEATURED PROJECTS -->
+<!-- FEATURED PROJECTS - USING YOUR OWN VERCEL INSTANCE -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" /> &nbsp;Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/Farhadali123/React-movie">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Farhadali123&repo=React-movie&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9" alt="React-movie" />
+  <img width="49%" src="https://github-readme-stats-iota-five-79yawar39m.vercel.app/api/pin/?username=Farhadali123&repo=React-movie&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9" alt="React-movie" />
 </a>
 <a href="https://github.com/Farhadali123/Fruit-ninja">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Farhadali123&repo=Fruit-ninja&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9" alt="Fruit-ninja" />
+  <img width="49%" src="https://github-readme-stats-iota-five-79yawar39m.vercel.app/api/pin/?username=Farhadali123&repo=Fruit-ninja&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9" alt="Fruit-ninja" />
 </a>
 
 <br/>
 
 <a href="https://github.com/Farhadali123/coffe_website">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Farhadali123&repo=coffe_website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9" alt="coffe_website" />
+  <img width="49%" src="https://github-readme-stats-iota-five-79yawar39m.vercel.app/api/pin/?username=Farhadali123&repo=coffe_website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9" alt="coffe_website" />
 </a>
 
 </div>
@@ -263,11 +263,7 @@ new Farhad().sayHi();
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding meme" />
-
-<br/>
-
-*I promise I'll write tests... eventually* 😂
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&qColor=%23a855f7&aColor=%236366f1&borderColor=%231a1b27&bgColor=%230d1117&textColor=%23c9d1d9" alt="Jokes Card" width="500" />
 
 </div>
 
@@ -294,7 +290,6 @@ new Farhad().sayHi();
 
 <br/>
 
-<!-- PROFILE VIEWS -->
 <img src="https://komarev.com/ghpvc/?username=Farhadali123&style=flat-square&color=a855f7" alt="profile views" />
 
 </div>
